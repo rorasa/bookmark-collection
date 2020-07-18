@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://bookmark-collection.vercel.app"
 title = "Bookmark Collection"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-gb"
